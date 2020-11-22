@@ -8,10 +8,10 @@ For security, JWT Authentication is used.
 
 ## Technologies / Tools used
 This project is built in Dotnet Core 3.1 using C# programming language and SQL Server for data stoage. Apart from it, following tools/technologies have been added too:
-* ** Entity Framework Core** for easy data reading and manipulation and for clean code.
-* ** Swagger UI** for visual rendering of API documents
-* ** Dependency Injection** is also being used to totally seperate the functionalities of individual classes.
-* ** JWT for authorizations.
+* **Entity Framework Core** for easy data reading and manipulation and for clean code.
+* **Swagger UI** for visual rendering of API documents
+* **Dependency Injection** is also being used to totally seperate the functionalities of individual classes.
+* **JWT** for authorizations.
 
 
 ### WebAPI
